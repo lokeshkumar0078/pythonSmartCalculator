@@ -2,7 +2,7 @@ import sys
 sys.path.append('/mymodules/')
 import mymodules
 from mymodules.mathop import *
-
+#this is smart calcy
 print(responses[0])
 print()
 print(responses[4])
